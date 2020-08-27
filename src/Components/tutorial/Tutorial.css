@@ -1,0 +1,21 @@
+.online-tutorial{
+
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom:40px;
+    margin-top: 44px;
+    margin-left: 30px;
+    
+
+}
+.online-tutorial img{
+    margin-right: 15px;
+}
+
+.tutorial{
+
+}
+
+.btn{
+    margin-bottom: 20px;
+}

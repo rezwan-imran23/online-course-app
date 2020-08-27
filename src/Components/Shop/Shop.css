@@ -1,0 +1,20 @@
+.tutorial-container{
+
+    display: flex;
+
+}
+
+
+.tutorial{
+
+width: 70%;
+border-right: 1px solid lightgray;
+margin: 0px 0px 0px 50px;
+
+
+}
+
+
+.cart-container{
+
+}

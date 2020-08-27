@@ -1,12 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import Header from './Components/Header/Header';
+import Shop from './Components/Shop/Shop';
+
+
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+
+    <div>
+      <header >
+
+       <Header></Header>
+       <Shop></Shop>
+        
         
       </header>
     </div>
